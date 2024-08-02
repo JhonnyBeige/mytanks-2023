@@ -1,0 +1,85 @@
+{
+	"type": "hulls",
+
+	"items": [
+		{
+		   "name_ru": "almighty-kit",
+			 "name_en": "almighty-kit",
+		   "description_en": "",
+		   "description_ru": "",
+		   "modification": 0,
+		   "id": "almighty-kit",
+
+		   "price_m0": "0",
+		   "price_m1": "50",
+		   "price_m2": "150",
+		   "price_m3": "500",
+
+		   "rang_m0":"1",
+		   "rang_m1":"3",
+		   "rang_m2":"5",
+		   "rang_m3":"7",
+
+			   "propertys_m0": [
+			   		{
+			   			"type": "armor",
+			   			"value": "30"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "4.0"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "80"
+			   		}
+
+			   ],
+			   "propertys_m1":[
+			   		{
+			   			"type": "armor",
+			   			"value": "35"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "4.5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "90"
+			   		}
+
+			   ],
+			   "propertys_m2":[
+			   		{
+			   			"type": "armor",
+			   			"value": "45"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "5.5"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "110"
+			   		}
+
+			   ],
+			   "propertys_m3":[
+			   		{
+			   			"type": "armor",
+			   			"value": "60"
+			   		},
+					{
+                        "type": "speed",
+                        "value": "7.0"
+                    },
+			   		{
+			   			"type": "turn_speed",
+			   			"value": "140"
+			   		}
+
+			   ]
+            }
+	]
+}

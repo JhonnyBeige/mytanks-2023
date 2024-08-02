@@ -1,0 +1,24 @@
+{
+	"maps": [
+		{
+			"name": "Песочница",
+			"id": "map_sandbox",
+			"min_rank": "1",
+			"max_rank": "27",
+			"max_players": "8",
+			"tdm": true,
+			"ctf": true,
+			"skybox_id": "skybox29",
+			"angleX": -0.8500000238418579,
+			"angleZ": 2.5,
+			"lightColor": 8419955,
+			"shadowColor": 6184542,
+			"fogAlpha": 0.25,
+			"fogColor": 15333375,
+			"ssaoColor": 2374217,
+			"ambient_sound_id": "default_ambient_sound",
+			"gamemode_id": "day",
+			"theme_id": "Лето"
+		}
+	]
+}

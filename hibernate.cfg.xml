@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+   <session-factory>
+      <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+      <property name="connection.url">jdbc:mysql://127.0.0.1/gtanks</property>
+      <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+
+      <property name="connection.username">root</property>
+      <property name="connection.password"></property>
+
+      <property name="show_sql">false</property>
+      <property name="hbm2ddl.auto">update</property>
+      <property name="hibernate.current_session_context_class">thread</property>
+
+      <property name="hibernate.c3p0.acquire_increment">1</property>
+      <property name="hibernate.c3p0.idle_test_period">100</property> <!-- seconds -->
+      <property name="hibernate.c3p0.max_size">100</property>
+      <property name="hibernate.c3p0.max_statements">0</property>
+      <property name="hibernate.c3p0.min_size">10</property>
+      <property name="hibernate.c3p0.testConnectionOnCheckin">true</property>
+      <property name="hibernate.c3p0.timeout">0</property>
+
+      <mapping class="gtanks.users.User" />
+      <mapping class="gtanks.users.garage.Garage" />
+      <mapping class="gtanks.users.karma.Karma" />
+      <mapping class="gtanks.main.netty.blackip.BlackIP" />
+      <mapping class="gtanks.logger.remote.LogObject" />
+      <mapping class="gtanks.rmi.payments.mapping.Payment" />
+      <mapping class="gtanks.system.dailybonus.mapping.DailyBonusInfo" />
+   </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,83 @@
+{
+	"type" :"effects",
+	"items" :[
+		{
+			"name_ru": "Повышенный опыт",
+			"name_en": "Double score",
+			"description_ru": "Увеличивает получаемые очки опыта на 30%.\n\nВремя действия - 1 неделя.\n\nВыдаётся при регистрации и только один раз на аккаунт. \nВнимание, абонемент не даёт преимущества в командных битвах!",
+			"description_en": "Increases the experience points received by 30%.\n\nThe validity period is 1 week.\n\nIssued upon registration and only once per account. \nAttention, a subscription does not give an advantage in team battles!",
+			"modification": 0,
+			"id": "up_score_small",
+			"special_item": true,
+			"price_m0": "0",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		},
+		{
+			"name_ru": "Премиум аккаунт",
+			"name_en": "Premium account",
+			"description_ru": "",
+			"description_en": "",
+			"modification": 0,
+			"id": "premium_account",
+			"special_item": false,
+			"price_m0": "0",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		},
+		{
+			"name_ru": "Повышенный опыт",
+			"name_en": "Double score",
+			"description_ru": "Увеличивает получаемые очки опыта на 30%.\n\nВремя действия - 1 месяц.\n\nВнимание, абонемент не даёт преимущества в командных битвах!",
+			"description_en": "Increases the experience points received by 30%.\n\nThe validity period is 1 month.\n\nAttention, a subscription does not give an advantage in team battles!",
+			"modification": 0,
+			"id": "up_score_start",
+			"special_item": true,
+			"price_m0": "0",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		},
+		{
+			"name_ru": "Повышенный опыт",
+			"name_en": "Double score",
+			"description_ru": "Увеличивает получаемые очки опыта на 30%.\n\nВремя действия - 1 месяц.\n\nВнимание, абонемент не даёт преимущества в командных битвах!",
+			"description_en": "Increases the experience points received by 30%.\n\nThe validity period is 1 month.\n\nAttention, a subscription does not give an advantage in team battles!",
+			"modification": 0,
+			"id": "up_score",
+			"special_item": false,
+			"price_m0": "1250",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		},
+		{
+			"name_ru": "Битвы без припасов",
+			"name_en": "Battles without supplies",
+			"description_ru": "Даёт возможность создавать и участвовать в битвах без припасов.",
+			"description_en": "Allows you to create and participate in battles without supplies.",
+			"modification": 0,
+			"id": "no_supplies",
+			"special_item": false,
+			"price_m0": "100",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		},
+		{
+			"name_ru": "1000 досвіду",
+			"name_en": "1000 досвіду",
+			"description_ru": "купи досвід не будь підорасом",
+			"description_en": "купи досвід не будь підорасом",
+			"modification": 0,
+			"id": "1000_scores",
+			"special_item": false,
+			"price_m0": "1000",
+			"rang_m0":"1",
+			"count_modifications" : 0,
+			"addable_item" : true
+		}
+	]
+}

@@ -1,0 +1,99 @@
+
+{
+	"data": {
+		"categories": [{
+			"category_id": "crystalls",
+			"description": {
+				"EN": "Ахуеть кристаллллыыыыыыыы - EN",
+				"RU": "Ахуеть кристаллллыыыыыыыы - RU"
+			},
+			"header_text": {
+				"EN": "Кристаллы",
+				"RU": "Кристаллы"
+			}
+		},
+			{
+				"category_id": "promocode",
+				"description": {
+					"EN": "ПРОМОКОДЫ А ХУЛЕ",
+					"RU": "ПРОМОКОДЫ А ХУЛЕ"
+				},
+				"header_text": {
+					"EN": "ЦПИУГЗГКГО43ШЦ",
+					"RU": "УЩЗКОН0ХУР5ЦЩШГК3Й"
+				}
+			}],
+		"items": [
+		{
+			"additional_data":
+			{
+				"crystalls_count": 1500,
+				"price": 69,
+				"currency": "RUB",
+				"bonus_crystalls": "2000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_1500"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 5000,
+				"price": 129,
+				"currency": "RUB",
+				"bonus_crystalls": "7500"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_5000"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 15000,
+				"price": 299,
+				"currency": "RUB",
+				"bonus_crystalls": "20000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_15000"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 50000,
+				"price": 500,
+				"currency": "RUB",
+				"bonus_crystalls": "50000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_30000"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 70000,
+				"price": 799,
+				"currency": "RUB",
+				"bonus_crystalls": "70000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_60000"
+		},
+		{
+			"additional_data":
+			{
+				"crystalls_count": 120000,
+				"price": 1349,
+				"currency": "RUB",
+				"bonus_crystalls": "120000"
+			},
+			"category_id": "crystalls",
+			"item_id": "crystall_100000"
+		},
+			{
+				"category_id": "promocode",
+				"item_id": "promocode"
+			}]
+	
+	}
+}
