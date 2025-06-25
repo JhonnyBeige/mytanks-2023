@@ -152,7 +152,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>.Main</mainClass>
+                            <mainClass>gtanks.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
