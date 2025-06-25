@@ -152,7 +152,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>flashtanki.main.Main</mainClass>
+                            <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
